@@ -6,3 +6,12 @@
 
 Education:
 - University History & Law bachelor
+
+Skills (rapidly growing):
+- Hard:
+  - html5
+  - css3
+  - JavaScript
+  - Git
+- Soft:
+  - English (B1)
