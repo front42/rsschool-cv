@@ -3,10 +3,10 @@
 let overlay = document.querySelector('.overlay');
 
 function openOverlay() {
-	let modalUpdate = document.querySelectorAll('.modal-update');
+	let modalProgress = document.querySelectorAll('.modal-progress');
 
-	for (let i = 0; i < modalUpdate.length; i++) {
-		modalUpdate[i].onclick = () => {
+	for (let i = 0; i < modalProgress.length; i++) {
+		modalProgress[i].onclick = () => {
 			overlay.style.display = 'block';
 		}
 	}
