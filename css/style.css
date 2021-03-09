@@ -68,7 +68,7 @@ h1 {
 	box-shadow: 0 0 15px 1px #b2b2b2;
 }
 
-.cotacts {
+.contacts {
 	position: relative;
 	display: block;
 	line-height: 30px;
@@ -76,7 +76,7 @@ h1 {
 	list-style-type: none;
 }
 
-.cotacts::before {
+.contacts::before {
 	position: absolute;
 	content: "";
 	transform: translateY(-50%);
