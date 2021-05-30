@@ -127,7 +127,7 @@ span a:hover {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: flex-start;
-	margin: 36px 0 36px 11px;
+	margin: 36px 0 143px 11px;
 }
 
 .avatar {
@@ -159,12 +159,17 @@ h2 {
 	margin-left: 30px;
 }
 
-footer {
-	padding: 7px;
-	min-height: 37px;
+.footer__top {
+	padding-top: 5px;
+	min-height: 39px;
 	font-size: 12px;
 	text-align: center;
 	background: rgba(55, 55, 55, 0.95);
+}
+
+.footer__bottom {
+	min-height: 105px;
+	background: rgba(55, 55, 55, 0.55);
 }
 
 .overlay {
