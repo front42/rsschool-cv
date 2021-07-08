@@ -17,9 +17,9 @@ Skills (rapidly growing):
   - English (B1)
 
 To do list:
-- [x] Start learning
-- [ ] Become good Front-end developer
-- [ ] Become Rock'N'Roll Star
+- [x]  Start learning
+- [ ]  Become good Front-end developer
+- [ ]  Become Rock'N'Roll Star
 
 This is my simple html5 template to start any Front-end project:
 
